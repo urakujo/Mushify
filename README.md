@@ -3,7 +3,7 @@ Mushify is an advanced identification app that quickly analyzes photos of mushro
 
 
 05.01.25: There are only 4 classes yet
-
+19.01.25: There are only 6 classes yet
 
 The list of the classes that the model works with is available in app --> src --> main --> assets --> labels.txt
 You can get test images from app --> src --> main --> modelTestImages
