@@ -7,5 +7,6 @@ Mushify is an advanced identification app that quickly analyzes photos of mushro
 16.02.25: There are only 9 + 1 classes. <br>
 16.03.25: There are only 11 + 1 classes. <br>
 30.03.25: Splash screen and Onboarding screen added. <br>
+30.04.28: Mushroom saving system added. Improved interface. <br>
 
 The list of the classes that the model works with is available in app --> src --> main --> assets --> converted_tflite --> labels.txt
